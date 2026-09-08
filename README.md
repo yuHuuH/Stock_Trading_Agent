@@ -3,14 +3,6 @@
 
 This is a **local-only** demo app for your saved S&P 500 PPO trading agent.
 
-It does **not** use:
-
-- Kaggle paths
-- W&B / wandb
-- kaggle_secrets
-- pandas-ta
-- numba / llvmlite
-
 ## Folder structure
 
 ```text
