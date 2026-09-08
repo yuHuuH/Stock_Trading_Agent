@@ -1,0 +1,3 @@
+Put raw CSV files here:
+- SP500.csv
+- sp500_2025_20260.csv

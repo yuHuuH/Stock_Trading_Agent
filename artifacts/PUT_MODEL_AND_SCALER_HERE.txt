@@ -1,0 +1,1 @@
+Copy best_model.zip (or ppo_quant_bot_final.zip) and vec_normalize_stats.pkl into this folder.

@@ -1,0 +1,2 @@
+For local use, copy SP500.csv and sp500_2025_20260.csv into this folder.
+Kaggle use can keep the original /kaggle/input paths configured in app.py.
